@@ -1,5 +1,4 @@
 # Trading Backtester & Stock Visualizer
-Public
 
 - Analyzed NIFTY-50 stock data using Python, processing diverse file formats including CSV, feather, and txt
 - Built an interactive UI, allowing dynamic stock plotting, comparative analysis, and technical filters
