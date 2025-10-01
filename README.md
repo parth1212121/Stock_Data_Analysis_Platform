@@ -1,6 +1,6 @@
 # Trading Backtester & Stock Visualizer
 
-- Analyzed NIFTY-50 stock data using Python, processing diverse file formats including CSV, feather, and txt
-- Built an interactive UI, allowing dynamic stock plotting, comparative analysis, and technical filters
-- Applied momentum-based trading strategies using Linear Regression, generating daily cash flow and final P&L
+- Built a C++ backtesting engine for momentum/mean-reversion (Linear Regression, BASIC, ADX, DMA/DMA++, MACD,
+RSI, Pairs), with multithreaded “Best-of-All” evaluation and auto-generated cashflow/order/P&L performance reports
+- Developed an interactive web dashboard for dynamic stock plotting, multi-symbol comparison, and technical overlays/filters
 - Check inside the directories to get a detailed README.
